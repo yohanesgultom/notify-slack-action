@@ -1,6 +1,6 @@
 name: Notify Slack Action
 description: Send Github Actions workflow status notifications to Slack
-author: RavSam Web Solutions
+author: Yohanes Gultom
 inputs:
   status:
     description: Job Status
